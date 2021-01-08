@@ -1,2 +1,4 @@
-# collisionAlgorithm
-Algorithm to detect collision between two objects
+# c21
+
+
+Output link: https://gublu123.github.io/c21/.
